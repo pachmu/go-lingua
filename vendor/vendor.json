@@ -1,0 +1,12 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "I8ZyC2aTUUUvcs1ieowz+YHjBlE=",
+			"path": "github.com/gotk3/gotk3",
+			"revision": "f8b6954100e567d6c36a12d96c34aeeb749ccd7f"
+		}
+	],
+	"rootPath": "github.com/go-lingua"
+}
